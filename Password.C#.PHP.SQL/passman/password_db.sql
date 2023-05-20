@@ -59,7 +59,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `password`) VALUES
-(1, '258963');
+(1, '123456');
 
 --
 -- Indexes for dumped tables
